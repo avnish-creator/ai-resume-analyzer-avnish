@@ -1,5 +1,7 @@
 # AI Resume Analyzer 🚀
 
+<img width="1547" height="531" alt="image" src="https://github.com/user-attachments/assets/2ac80b12-f5f6-4203-a701-e0f2e5152488" />
+
 An AI-powered Resume Analyzer built using React, TypeScript, Tailwind CSS, and Puter.js. This application helps users upload resumes, analyze ATS compatibility, and receive smart AI-based resume feedback for job applications.
 
 ## ✨ Features
@@ -24,7 +26,8 @@ An AI-powered Resume Analyzer built using React, TypeScript, Tailwind CSS, and P
 
 ## 📸 Preview
 
-Add screenshots of your project here.
+<img width="1898" height="917" alt="image" src="https://github.com/user-attachments/assets/17ae4622-5396-4210-a86d-cc0a4c371bac" />
+
 
 ## ⚙️ Installation
 
@@ -65,4 +68,4 @@ npm run dev
 Avnish Ojha
 
 - GitHub: https://github.com/avnish-creator
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/avnishojha
